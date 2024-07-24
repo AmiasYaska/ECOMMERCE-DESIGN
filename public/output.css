@@ -613,6 +613,14 @@ video {
   margin-bottom: 1.25rem;
 }
 
+.mt-8 {
+  margin-top: 2rem;
+}
+
+.mt-5 {
+  margin-top: 1.25rem;
+}
+
 .inline-block {
   display: inline-block;
 }
@@ -646,6 +654,22 @@ video {
   width: 1.5rem;
 }
 
+.w-2 {
+  width: 0.5rem;
+}
+
+.w-2\/5 {
+  width: 40%;
+}
+
+.w-3\/5 {
+  width: 60%;
+}
+
+.w-full {
+  width: 100%;
+}
+
 .flex-row {
   flex-direction: row;
 }
@@ -660,6 +684,10 @@ video {
 
 .justify-between {
   justify-content: space-between;
+}
+
+.self-start {
+  align-self: flex-start;
 }
 
 .rounded {
